@@ -13,7 +13,7 @@
 
 
 ## Demo
-![](https://i.imgur.com/0xvAH3I.png)
+![](https://i.imgur.com/IYAGMTh.png)
 
 
 
@@ -24,7 +24,7 @@ This is a simple multi class image classification application developed using ke
 ## Directory Tree 
 ```
 ├── models
-|    ├── model_resnet.h5
+|    ├── model_resnet.pth
 ├── static
 |    ├── css
 |    ├── js
@@ -32,6 +32,7 @@ This is a simple multi class image classification application developed using ke
 ├── templates
 |    ├── base.html
 |    ├── result.html
+├── uploads
 ├── Dockerfile
 ├── Procfile
 ├── README.md
