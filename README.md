@@ -51,13 +51,13 @@ This is a simple multi class image classification application developed using ke
 
 
 ## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/pandeynandancse/dog-breed-classifier-dl-app/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/pandeynandancse/human-protein-classifier/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/pandeynandancse/dog-breed-classifier-dl-app/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/pandeynandancse/human-protein-classifier/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Contribution
-If you'd like to do some contribution, feel free to do so by opening a pull request [here](https://github.com/pandeynandancse/dog-breed-classifier-dl-app/pulls). Please include sample queries and their corresponding results.
+If you'd like to do some contribution, feel free to do so by opening a pull request [here](https://github.com/pandeynandancse/human-protein-classifier/pulls). Please include sample queries and their corresponding results.
 
 
 
@@ -66,7 +66,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
+[<img target="_blank" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 
 
 
