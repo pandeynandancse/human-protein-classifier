@@ -58,12 +58,12 @@ cd venv
 ```
 c) Clone this project 
 ```bash
-git clone https://github.com/pandeynandancse/dog-breed-classifier-dl-app.git
+git clone https://github.com/pandeynandancse/human-protein-classifier.git
 ```
 
 d) Move into cloned directory
 ```bash
-cd dog-breed-classifier-dl-app
+cd human-protein-classifier
 ```
 e) Now install all requirements
 ```bash
