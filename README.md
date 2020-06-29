@@ -18,7 +18,7 @@
 
 
 ## Overview
-This is a simple multi class image classification application developed using keras. The trained model can be downloaded and store it inside models folder with name model_resnet.h5 that takes image as an input via file upload and then model predicts the class/breed of image/dog.
+This is a simple multi class image classification application developed using keras. The trained model can be downloaded and store it inside models folder with name model_resnet.pth that takes image as an input via file upload and then model predicts the class/breed of image/dog.
 
 
 ## Directory Tree 
@@ -79,5 +79,5 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-Special thanks to Kris Naik sir 
-
+1. Special thanks to Kris Naik sir
+2. Special thanks to Akash NS sir,Co-founder at jovian.ml and Instructor of the course ZERO-to-GANs using pytorch , who hosted related dataset on Kaggle and organized a well in-class competition.
