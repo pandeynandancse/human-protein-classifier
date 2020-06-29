@@ -47,10 +47,28 @@ This is a simple multi label image classification application developed using py
 ## Installation
 1. Windows user can double click on activation.bat file to install required package
 2. Linux User type following command in commnand line
+a) First create a virtual environment 
+```bash
+python3.7 -m virtualenv venv
+```
+b) Move to venv directory and activate environment
+```bash
+cd venv
+. bin/activate
+```
+c) Clone this project 
+```bash
+git clone https://github.com/pandeynandancse/dog-breed-classifier-dl-app.git
+```
+
+d) Move into cloned directory
+```bash
+cd dog-breed-classifier-dl-app
+```
+e) Now install all requirements
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Run
 1. After successfull installation windows user can directly open this link : https://127.0.0.1:5000
 2. After successful installation open type
