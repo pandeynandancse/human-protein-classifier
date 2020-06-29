@@ -79,5 +79,5 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-1. Special thanks to Kris Naik sir
+1. Special thanks to Kris Naik sir, front end source code has been taken from one of his project.
 2. Special thanks to Akash NS sir,Founder of jovian.ml and Instructor of the course ZERO-to-GANs using pytorch , who hosted related dataset on [Kaggle](https://www.kaggle.com/c/jovian-pytorch-z2g) and organized in-class competition.
