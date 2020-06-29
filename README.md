@@ -80,4 +80,4 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 ## Credits
 1. Special thanks to Kris Naik sir
-2. Special thanks to Akash NS sir,Co-founder at jovian.ml and Instructor of the course ZERO-to-GANs using pytorch , who hosted related dataset on Kaggle and organized a well in-class competition.
+2. Special thanks to Akash NS sir,Founder of jovian.ml and Instructor of the course ZERO-to-GANs using pytorch , who hosted related dataset on Kaggle and organized a well in-class competition.
